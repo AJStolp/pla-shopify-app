@@ -19,5 +19,5 @@
     "skipLibCheck": true
   },
   "exclude": ["node_modules", "dist"],
-  "include": ["**/*.ts", "**/*.tsx"]
+  "include": ["**/*.ts", "**/*.tsx", "src/components/FeaturedCollections.server.jsx", "src/components/Layout.server.jsx", "src/components/ProductCard.server.jsx", "src/routes/collections/[handle].server.jsx"]
 }
